@@ -1,5 +1,8 @@
 addation
 a+b=c
 
-
+subt
 a-b=d
+
+multiplication
+a*b=ab
