@@ -8,4 +8,4 @@ multiplication
 a*b=ab
 
 percentage
-a%2
+a%2=0 
