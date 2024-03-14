@@ -6,3 +6,6 @@ a-b=d
 
 multiplication
 a*b=ab
+
+division
+a/b=d
